@@ -1,3 +1,2 @@
-#:/bin/bash
-echo :the time is:"
-time
+#!/bin/bash
+echo "First line of Jenkins code"
